@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "iotpagejsgc": {
+      "hosting": {
+        "app": [
+          "iotpagejsgc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "iotpagejsgc"
+  }
+}
